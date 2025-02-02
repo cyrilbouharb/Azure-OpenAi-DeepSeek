@@ -15,3 +15,7 @@ You should have the following:
 - **Azure Inference API Key** and **Endpoint**.
 - **Python 3.8+** installed.
 - **VS Code** with Azure extensions (optional, but recommended)
+
+
+https://github.com/user-attachments/assets/b0e74d1e-6c0c-4f16-ba9a-0b74cf6b0132
+
